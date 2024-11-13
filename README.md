@@ -26,7 +26,7 @@ Currently learning and deep-diving into low level programming.<br/>
   <img height=200 align="center" src="https://github-readme-stats-3aef.vercel.app/api?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&hide=stars&&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-3aef.vercel.app/api/top-langs/?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats-3aef.vercel.app/api/top-langs/?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=320" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
