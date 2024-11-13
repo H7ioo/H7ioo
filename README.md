@@ -22,18 +22,11 @@ Currently learning and deep-diving into low level programming.<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=H7ioo&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats-3aef.vercel.app/api/top-langs/?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 -->
-<div style="display: flex; flex-direction: row; ">
- <img height=200 class="img" src="https://github-readme-stats-3aef.vercel.app/api?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&hide=stars&&show_icons=true" />
-<!--  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=H7ioo&theme=radical&hide_border=false" /> -->
- <img height=200 class="img" src="https://github-readme-stats-3aef.vercel.app/api/top-langs/?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&" />
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-TEST: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats-3aef.vercel.app/api?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&hide=stars&&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-3aef.vercel.app/api/top-langs/?username=H7ioo&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </a>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
